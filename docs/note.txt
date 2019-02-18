@@ -1,0 +1,22 @@
+1、装饰器模式  com-lnson-pattern-decorator-demo
+  1)装饰者
+  2)抽象装饰者
+
+
+2、代理模式  com-lnson-pattern-proxy-demo
+  1)JDK动态代理
+  2)静态代理
+  3)cglib代理
+
+
+3、单例模式  com-lnson-pattern-singleton-demo
+  1)懒汉方式
+  2)饿汉方法
+  3)类级内部类的方式
+
+
+4、模板方法模式  com-lnson-pattern-template-method-demo
+  a、模板方法
+  b、抽象方法
+  c、具体方法
+  d、钩子方法
